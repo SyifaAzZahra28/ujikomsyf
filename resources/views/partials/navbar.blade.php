@@ -18,13 +18,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
             <li class="nav-item">
-                <a class="nav-link nav-link-1" href="index.html">Photos</a>
+                <a class="nav-link nav-link-3 active" aria-current="page" href="/about">Photos</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link nav-link-3 active" aria-current="page" href="about.html">About</a>
+                <a class="nav-link nav-link-2" href="/category">Category</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link nav-link-2" href="videos.html">Category</a>
+                <a class="nav-link nav-link-1" href="index.html">Login</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link nav-link-4" href="contact.html">Contact</a>

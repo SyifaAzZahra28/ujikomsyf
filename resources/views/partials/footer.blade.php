@@ -18,11 +18,9 @@
                 <ul class="tm-social-links d-flex justify-content-end pl-0 mb-5">
                     <li class="mb-2"><a href="https://facebook.com"><i class="fab fa-facebook"></i></a></li>
                     <li class="mb-2"><a href="https://twitter.com"><i class="fab fa-twitter"></i></a></li>
-                    <li class="mb-2"><a href="https://instagram.com"><i class="fab fa-instagram"></i></a></li>
+                    <li class="mb-2"><a href="https://www.instagram.com/syifaaa_azzhraa?igsh=MWRqZDNhMXo0dnR5Yg=="><i class="fab fa-instagram"></i></a></li>
                     <li class="mb-2"><a href="https://pinterest.com"><i class="fab fa-pinterest"></i></a></li>
                 </ul>
-                <a href="#" class="tm-text-gray text-right d-block mb-2">Terms of Use</a>
-                <a href="#" class="tm-text-gray text-right d-block">Privacy Policy</a>
             </div>
         </div>
         <div class="row">

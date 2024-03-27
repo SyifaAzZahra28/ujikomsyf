@@ -14,7 +14,7 @@
     <div class="container-fluid tm-container-content tm-mt-60">
         <div class="row mb-4">
             <h2 class="col-6 tm-text-primary">
-                Latest Photos
+                All Photos
             </h2>
             {{-- <div class="col-6 d-flex justify-content-end align-items-center">
                 <form action="" class="tm-text-primary">
@@ -179,61 +179,9 @@
                     <span class="tm-text-gray-light">28 Aug 2020</span>
                     <span>50,700 views</span>
                 </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
-                <figure class="effect-ming tm-video-item">
-                    <img src="{{ ('assets/img/freshlatteBanana.jpg') }}" alt="Image" class="img-fluid">
-                    <figcaption class="d-flex align-items-center justify-content-center">
-                        <h2>Fresh Latte Banana</h2>
-                        <a href="photo-detail.html">View more</a>
-                    </figcaption>                    
-                </figure>
-                <div class="d-flex justify-content-between tm-text-gray">
-                    <span class="tm-text-gray-light">22 Aug 2020</span>
-                    <span>107,510 views</span>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
-                <figure class="effect-ming tm-video-item">
-                    <img src="{{ ('assets/img/img-14.jpg') }}" alt="Image" class="img-fluid">
-                    <figcaption class="d-flex align-items-center justify-content-center">
-                        <h2>Sea</h2>
-                        <a href="photo-detail.html">View more</a>
-                    </figcaption>                    
-                </figure>
-                <div class="d-flex justify-content-between tm-text-gray">
-                    <span class="tm-text-gray-light">14 Aug 2020</span>
-                    <span>118,006 views</span>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
-                <figure class="effect-ming tm-video-item">
-                    <img src="{{ ('assets/img/img-15.jpg') }}" alt="Image" class="img-fluid">
-                    <figcaption class="d-flex align-items-center justify-content-center">
-                        <h2>Turtle</h2>
-                        <a href="photo-detail.html">View more</a>
-                    </figcaption>                    
-                </figure>
-                <div class="d-flex justify-content-between tm-text-gray">
-                    <span class="tm-text-gray-light">9 Aug 2020</span>
-                    <span>121,300 views</span>
-                </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6 col-12 mb-5">
-                <figure class="effect-ming tm-video-item">
-                    <img src="{{ ('assets/img/img-16.jpg') }}" alt="Image" class="img-fluid">
-                    <figcaption class="d-flex align-items-center justify-content-center">
-                        <h2>Peace</h2>
-                        <a href="photo-detail.html">View more</a>
-                    </figcaption>                    
-                </figure>
-                <div class="d-flex justify-content-between tm-text-gray">
-                    <span class="tm-text-gray-light">3 Aug 2020</span>
-                    <span>21,204 views</span>
-                </div>
-            </div>         
+            </div>       
         </div> <!-- row -->
-        <div class="row tm-mb-90">
+        {{-- <div class="row tm-mb-90">
             <div class="col-12 d-flex justify-content-between align-items-center tm-paging-col">
                 <a href="javascript:void(0);" class="btn btn-primary tm-btn-prev mb-2 disabled">Previous</a>
                 <div class="tm-paging d-flex">
@@ -244,7 +192,7 @@
                 </div>
                 <a href="javascript:void(0);" class="btn btn-primary tm-btn-next">Next Page</a>
             </div>            
-        </div>
+        </div> --}}
     </div> <!-- container-fluid, tm-container-content -->
 
 </body>
