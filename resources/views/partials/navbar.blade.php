@@ -24,7 +24,7 @@
                 <a class="nav-link nav-link-2" href="/category">Category</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link nav-link-1" href="index.html">Login</a>
+                <a class="nav-link nav-link-1" href="/login">Login</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link nav-link-4" href="contact.html">Contact</a>
