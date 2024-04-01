@@ -37,6 +37,10 @@ Route::get('/register', function () {
     return view('register');
 });
 
-Route::get('/admin', function () {
-    return view('admin.main');
+Route::get('/dashboardAdmin', function () {
+    return view('admin.admin');
+});
+
+Route::get('/dataFoto', function () {
+    return view('admin.dataFoto');
 });

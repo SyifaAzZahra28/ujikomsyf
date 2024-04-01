@@ -1,0 +1,20 @@
+@extends('admin.main')
+@section('content')
+<br><br><br><br><br>
+    <table class="table table-success table-striped">
+        <tr>
+            <th>nganu</th>
+            <th>nganu</th>
+            <th>nganu</th>
+            <th>nganu</th>
+            <th>nganu</th>  
+        </tr>
+        <tr>
+            <td>dslekfjewurhie4u</td>
+            <td>dslekfjewurhie4u</td>
+            <td>dslekfjewurhie4u</td>
+            <td>dslekfjewurhie4u</td>
+            <td>dslekfjewurhie4u</td>
+        </tr>
+      </table>
+@endsection
